@@ -1,9 +1,15 @@
 ## Hello, I’m Khaoula Refaat 👋
 
 
-**Data Scientist | Data Engineer**  
+**Data Scientist | Data Engineer | Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
+
+🌟 **About Me**  
+I am a junior Data Scientist with strong skills in machine learning, data analysis, and web development. I gained hands-on experience during a 5-month internship at OCP, working on predictive modeling in an industrial environment. Curious, rigorous, and highly motivated, I am passionate about solving real-world problems through data. I hold a Master’s degree in Data Science & Engineering and have completed several impactful academic and professional projects.
+
+---
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
